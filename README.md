@@ -42,4 +42,12 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-##
+## Installation Guide
+
+```
+git clone https://github.com/mambrocio/jate-editor.git
+
+npm run build
+
+npm start 
+```
