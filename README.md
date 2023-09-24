@@ -47,6 +47,8 @@ THEN I should have proper build scripts for a webpack application
 ```
 git clone https://github.com/mambrocio/jate-editor.git
 
+npm install
+
 npm run build
 
 npm start 
